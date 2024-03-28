@@ -1,0 +1,6 @@
+Error in print(department_summary) : 
+  object 'department_summary' not found
+
+Error in sink("C:/Users/n/Downloads/TheError_Log.txt", append = FALSE,  : 
+  'file' must be NULL or an already open connection
+> 
